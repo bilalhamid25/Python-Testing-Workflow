@@ -1,5 +1,8 @@
-# Python Testing Workflow
+[![MyPy static code checking](https://github.com/sharjeelmazhar/Python-Testing-Workflow/actions/workflows/mypy.yml/badge.svg)](https://github.com/sharjeelmazhar/Python-Testing-Workflow/actions/workflows/mypy.yml)
+[![Pylint static code analysis](https://github.com/sharjeelmazhar/Python-Testing-Workflow/actions/workflows/pylint.yml/badge.svg)](https://github.com/sharjeelmazhar/Python-Testing-Workflow/actions/workflows/pylint.yml)
+[![PyTest](https://github.com/sharjeelmazhar/Python-Testing-Workflow/actions/workflows/pytest.yml/badge.svg)](https://github.com/sharjeelmazhar/Python-Testing-Workflow/actions/workflows/pytest.yml)
 
+# Python Testing Workflow
 
 Welcome to the Python Testing Workflow Showcase! This repository is a comprehensive guide and demonstration of setting up an effective Python testing workflow using industry-standard tools like PyTest, MyPy, PyLint, and GitHub Actions. Whether you're a beginner looking to understand the fundamentals or an experienced developer seeking best practices, this showcase provides in-depth insights into the intricacies of each tool and their integration.
 
