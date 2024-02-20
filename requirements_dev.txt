@@ -3,3 +3,4 @@ setuptools
 pytest
 mypy
 pylint
+wheel

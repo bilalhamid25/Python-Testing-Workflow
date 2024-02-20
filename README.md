@@ -21,6 +21,12 @@ Explore PyLint, a widely-used Python linter that enforces coding standards and i
 
 Delve into GitHub Actions, an integral part of modern development workflows. Uncover the secrets of configuring workflows to automate testing, ensuring that your codebase remains reliable and error-free with each push and pull request.
 
+#### Cross-Platform Testing
+
+The GitHub Actions workflows now test on **Mac**, **Linux**, and **Windows** using Python versions **3.7 to 3.12** on each operating system to ensure compatibility across all platforms.
+
+
+
 ## Learning Objectives
 
 - Understand the fundamentals of PyTest for effective unit testing.
