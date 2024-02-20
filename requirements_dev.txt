@@ -1,0 +1,5 @@
+types-setuptools
+setuptools
+pytest
+mypy
+pylint
